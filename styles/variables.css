@@ -13,8 +13,13 @@
   --font-main-logo: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
   --border-view: 2px solid #000;
   --button-text-color: #fff;
+  --button-animations-color: #000;
   --text-button-font-size: 14px;
   --background-page:repeating-linear-gradient(to left,#d3d3d3 0 2px,#d3d3d300 2px 4px),
   repeating-linear-gradient(to bottom,#d3d3d3 0 2px,#d3d3d300 2px 4px),
   linear-gradient(to bottom,#e7e7e7 0.01%,#1a1a1a);
+  --color-heart-contour: #000;
+  --bg-color-heart-basic: #fff;
+  --bg-color-heart-active: #ff0000;
+  --bg-color-heart-acсent: #000;
 }
